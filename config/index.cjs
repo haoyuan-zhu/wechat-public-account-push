@@ -23,12 +23,12 @@ const USER_CONFIG = {
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: 'oTImk6o03c8hEztW-dd4CDAFg2s8',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'w0xD5hNwDwWbkKop9rUDBkCYfhMLaAWFOdmH839M5MA',
+      useTemplateId: '_3VZDzdASVnXJ9B_X6TC_iS8e5EwiKdMDNIDPqVg4hM',
      
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '胡唯一小朋友', year: '1995', date: '09-22',
+          type: '*生日', name: '生日', year: '1995', date: '09-22',
         },
       
         {
