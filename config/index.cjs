@@ -28,11 +28,7 @@ const USER_CONFIG = {
       festivals: [
         // 注意：此条配置日期为阴历日期，因为`type`中 “生日” 之前有 * 符号
         {
-          type: '*生日', name: '生日', year: '1995', date: '09-22',
-        },
-      
-        {
-          type: '节日', name: '相识纪念日', year: '2023', date: '08-01',
+          type: '*生日', name: 'birthday_message', year: '1995', date: '09-22',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
